@@ -6,7 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.volie.tabu.databinding.FragmentGameBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class GameFragment : Fragment() {
     private var _mBinding: FragmentGameBinding? = null
     private val mBinding get() = _mBinding!!
