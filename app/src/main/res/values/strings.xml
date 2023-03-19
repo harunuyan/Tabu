@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Tabu</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="new_game">New Game</string>
+    <string name="settings">Settings</string>
+    <string name="go_to_main_menu">Go to Main Menu</string>
+    <string name="winner_game">Winner Game</string>
+    <string name="ready">Ready</string>
+    <string name="score">Score</string>
+    <string name="true_answer">True Answer</string>
+    <string name="penalty_answer">Penalty Answer</string>
+    <string name="pass">Pass</string>
+    <string name="next_player">Next Player</string>
+    <string name="next">Next</string>
+    <string name="go_back_to_menu">Go back to menu</string>
 </resources>
